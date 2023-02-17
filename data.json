@@ -1,0 +1,6 @@
+[
+  { "name": "Aladin", "role": "Admin", "id": 1 },
+  { "name": "Spider Man", "role": "Admin", "id": 2 },
+  { "name": "Lighting Mcqueen", "role": "Viewer", "id": 3 },
+  { "name": "Jack Sparrow", "role": "Viewer", "id": 4 }
+]
